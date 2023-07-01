@@ -1,11 +1,13 @@
 ---
-name: Course Sugesstion
-about: Suggest a new course to be added to the Catalogue!
-title: " [COURSE]"
-labels: enhancement
+name: Course Suggestion
+about: Suggest a new course for the repository
+title: ''
+labels: course suggestion
 assignees: ''
 
 ---
+
+## Course Suggestion
 
 **Title:** [Insert course title here]
 
