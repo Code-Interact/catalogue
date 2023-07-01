@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "version": 0,
+      "name": "Example Course",
+      "slug": "example",
+      "author": {"name": "CodeInteract", "url":"https://github.com/Code-Interact"},
+      "content": []
+    }
+  ]
+}
