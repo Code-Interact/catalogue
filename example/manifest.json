@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "desc": "An Example Course for CodeInteract",
+  "visible": ["test-mode", "god-mode"],
+  "requirements": null,
+  "icon": null,
+  "git": true,
+  "lessons": null
+}
